@@ -6,7 +6,12 @@
 **Project:** Cape Bloom Bakery
 
 ## Project overview
-Cape Bloom Bakery is a responsive five-page academic website demonstrating HTML, CSS and JavaScript skills. Part 3 adds interactive functionality, forms, validation, SEO, dynamic product filtering, a gallery lightbox, an OpenStreetMap embed and GitHub Pages deployment configuration.
+Cape Bloom Bakery is a responsive five-page academic website demonstrating HTML, CSS and JavaScript skills. Part 3 adds interactive functionality, forms, validation, SEO, dynamic product filtering, a gallery lightbox, an OpenStreetMap embed and GitHub Pages deployment.
+
+## Live website
+**GitHub Pages:** https://st10535158.github.io/capebloom-bakery-part3/
+
+**Repository:** https://github.com/ST10535158/capebloom-bakery-part3
 
 ## Pages
 - `index.html` — Home
@@ -26,8 +31,8 @@ Cape Bloom Bakery is a responsive five-page academic website demonstrating HTML,
 - GitHub Actions workflow for GitHub Pages
 - Changelog and evidence documentation
 
-## GitHub Pages
-The repository contains a workflow in `.github/workflows/pages.yml` using GitHub's Pages deployment actions. After the workflow completes, the project is published from the `main` branch through GitHub Actions.
+## Deployment status
+GitHub Pages deployment was successfully completed through GitHub Actions. The deployment workflow produced a successful `deploy` job and published the site at the live URL above.
 
 ## Testing checklist
 - [x] Five HTML pages included
@@ -41,6 +46,7 @@ The repository contains a workflow in `.github/workflows/pages.yml` using GitHub
 - [x] SEO metadata included
 - [x] Sitemap and robots file included
 - [x] GitHub Pages workflow included
+- [x] GitHub Pages deployment completed successfully
 
 ## References
 - GitHub Pages documentation: https://docs.github.com/en/pages
