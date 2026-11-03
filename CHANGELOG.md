@@ -20,6 +20,13 @@
 - Search/filter interaction updates visible product results.
 - Gallery buttons open and close the lightbox.
 - Navigation links target all five pages.
+- GitHub Pages deployment completed successfully through GitHub Actions.
+
+### Deployment
+- GitHub Pages source configured as **GitHub Actions**.
+- Deployment workflow completed successfully.
+- Live website: https://st10535158.github.io/capebloom-bakery-part3/
+- Repository: https://github.com/ST10535158/capebloom-bakery-part3
 
 ### Submission evidence
-The local submission package contains the evidence checklist/report and previously captured responsive/developer screenshots. GitHub repository and Pages screenshots should be captured after the authenticated repository deployment is confirmed.
+The local submission package contains the evidence checklist/report and previously captured responsive/developer screenshots. The successful GitHub Actions deployment screenshot should be included as evidence for deployment and GitHub Pages configuration. Additional live-site screenshots should be captured for the interactive features and form validation where required by the lecturer's rubric.
