@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ST10535158.github.io/capebloom-bakery-part3/sitemap.xml
